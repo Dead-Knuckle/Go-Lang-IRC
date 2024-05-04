@@ -11,6 +11,7 @@ This project is a terminal-based chat client implemented in Go. It uses the Bubb
 - [Features](#client-features)
 - [Dependencies](#client-dependencies)
 - [Configuration](#client-configuration)
+- [License](#license)
 
 ### Client-Installation
 To install the chat client, you need to have Go installed on your machine. You can download and install Go from [here](https://golang.org/dl/).
@@ -103,7 +104,7 @@ The server listens on port 6667 by default. You can change the port by modifying
 listener, err := net.Listen("tcp", ":6667")
 ```
 
-
+## License
 MIT License
 
 Copyright (c) [2024] [William ELijah Johnson]
