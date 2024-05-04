@@ -57,12 +57,11 @@ const serverAddress = "localhost:6667"
 This Go-based server application supports the corresponding chat client by handling incoming TCP connections, managing user sessions, and facilitating real-time communication between clients. It features nickname management, heartbeat for connection health checks, and broadcast capabilities.
 
 ### Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [Contributors](#contributors)
+- [Installation](#server-installation)
+- [Usage](#server-usage)
+- [Features](#server-features)
+- [Dependencies](#server-dependencies)
+- [Configuration](#server-configuration)
 - [License](#license)
 
 ### Server-Installation
