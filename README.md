@@ -107,7 +107,7 @@ listener, err := net.Listen("tcp", ":6667")
 ## License
 MIT License
 
-Copyright (c) [2024] [William ELijah Johnson]
+Copyright (c) [2024] [William Elijah Johnson]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
